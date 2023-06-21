@@ -530,19 +530,19 @@ Korvauksen kuittaaminen määräytyy työsopimuslain 2:17 §:n mukaan.
 #### työsuhteen jatkuttua irtisanomisaika
 
 ```
-enintään vuoden 14 päivää
+Jos työsuhde on jatkunut enintään vuoden, on työnantajan irtisanomisaika 14 päivää.
 ```
 ```
-yli vuoden – enintään 4 vuotta 1 kuukausi
+Jos työsuhde on jatkunut yli vuoden ja enintään 4 vuotta, on työnantajan irtisanomisaika 1 kuukausi.
 ```
 ```
-yli 4 – enintään 8 vuotta 2 kuukautta
+Jos työsuhde on jatkunut yli 4 vuotta ja enintään 8 vuotta, on työnantajan irtisanomisaika 2 kuukautta.
 ```
 ```
-yli 8 – enintään 12 vuotta 4 kuukautta
+Jos työsuhde on jatkunut yli 8 vuotta ja enintään 12 vuotta, on työnantajan irtisanomisaika 4 kuukautta.
 ```
 ```
-yli 12 vuotta 6 kuukautta
+Jos työsuhde on jatkunut yli 12 vuotta, on työnantajan irtisanomisaika 6 kuukautta.
 ```
 
 ### A
@@ -554,10 +554,10 @@ yli 12 vuotta 6 kuukautta
 #### työsuhteen jatkuttua irtisanomisaika
 
 ```
-enintään 5 vuotta 14 päivää
+Jos työsuhde on jatkunut enintään 5 vuotta, on työntekijän irtisanomisaika 14 päivää.
 ```
 ```
-yli 5 vuotta 1 kuukausi
+Jos työsuhde on jatkunut yli 5 vuotta, on työntekijän irtisanomisaika 1 kuukausi.
 ```
 3. Toimihenkilöillä ja tukkumyyjillä ja -ostajilla voidaan 1. ja 2. kohdista poiketen
     sopia molempien osapuolten irtisanomisajaksi 1 kuukausi.
@@ -570,16 +570,6 @@ pidempää irtisanomisaikaa.
 4. Irtisanomisaika alkaa kulua irtisanomista seuraavasta päivästä.
 
 ```
-Esimerkki 1
-```
-```
-a. Irtisanomisaika 14 vrk
-Työsuhde irtisanottiin maanantaina 13.1.
-Irtisanomisaika alkaa tiistaina 14.1.
-Työsuhteen viimeinen päivä on maanantai 27.1.
-```
-```
-b. Irtisanomisaika kuukausina
 Kun irtisanomisaika lasketaan kuukausina, työsuhde päättyy järjestys-
 numeroltaan samana päivänä, kun irtisanominen on suoritettu.
 ```
@@ -587,17 +577,6 @@ numeroltaan samana päivänä, kun irtisanominen on suoritettu.
 Jos vastaavaa päivää ei ole siinä kuussa, jossa määräaika päättyisi,
 työsuhde päättyy kuukauden viimeisenä päivänä.
 ```
-```
-Irtisanomisaika 1 kk:
-Työsuhde irtisanottiin 1.3. Irtisanomisaika alkaa kulua 2.3.
-Työsuhteen viimeinen päivä on 1.4.
-1.3. <-------------------------------- 1 kk -----------------------------> 1.4.
-irtisanominen työsuhteen
-viimeinen päivä
-Irtisanomisaika 2 kk:
-31.12. <-------------------------------1 kk ----------------------------> 28.2.
-irtisanominen työsuhteen
-viimeinen päivä
 ```
 
 ### A
@@ -617,33 +596,6 @@ viimeinen päivä
 Korvauksen kuittaaminen määräytyy työsopimuslain 2:17 §:n mukaan.
 ```
 ```
-Esimerkki 2
-```
-```
-Työntekijä irtisanoutui 17.10. toistaiseksi voimassa olevasta työsuhteestaan
-ja lähti välittömästi noudattamatta 14 päivän irtisanomisaikaansa (työsuh-
-teen päättymispäivä 31.10.). Työntekijän kuukausipalkka oli 1 939 euroa.
-```
-```
-Työntekijä oli töissä yhteensä 11 päivää (17 kalenteripäivää). Tältä osin
-hänellä on työnantajalta palkkasaatavaa 11 x työpäivän palkka 92,33 euroa
-eli yhteensä 1 015,63 euroa. Lomakorvaussaatavia hänellä on yhteensä
-930,72 euroa (1 939 : 25 x 12). Ennakonpidätyksen jälkeen hänen nettolop-
-putilinsä on (1 015,63 euroa + 930,72 euroa) – 525,51 euroa eli yhteensä
-1 420,84 euroa.
-```
-```
-Työntekijä on velvollinen maksamaan korvauksena työnantajalle noudatta-
-matta jätetyn irtisanomisajan palkkaa vastaavan määrän eli 923,37 euroa
-(1 939 euroa – 1 015,63 euroa).
-```
-```
-Suojaosuus 17 kalenteripäivältä on 17 x 30,75 euroa (suojaosuus velallisen
-osalta v. 2023) eli 522,75 euroa. Työnantajan kuitattava saatava 923,
-euroa on pienempi kuin 2 x suojaosuus (1 045,50 euroa), joten lopputilistä
-työnantaja voi kuitata enintään 2/3 suojaosuuden ylittävästä saatavasta
-(400,62 euroa) eli 267,08 euroa. Työnantajalle jää vielä korvaussaatavaa
-työntekijältä 656,29 euroa.
 ```
 8. Työnantajan, joka ei noudata irtisanomisaikaa, on maksettava työntekijälle
     noudattamatta jätetyltä irtisanomisajalta täysi palkka.
@@ -654,12 +606,6 @@ työntekijältä 656,29 euroa.
 ### Työehtosopimus
 
 ```
-Esimerkki 3
-```
-```
-Työntekijä irtisanoutui 17.10. toistaiseksi voimassa olevasta työsuhteestaan
-ja lähti välittömästi noudattamatta 14 päivän irtisanomisaikaansa (työsuh-
-teen päättymispäivä 31.10.). Työntekijän kuukausipalkka oli 1 939 euroa.
 ```
 #### Työsuhteen purkaminen
 
@@ -691,7 +637,7 @@ muslain 5:2 §:n mukaan.
 
 ### Työehtosopimus
 
-## 3. TYÖAIK A
+## 3. TYÖAIKA
 
 ### 6 §  Työaika
 
@@ -728,13 +674,6 @@ viikon tiedoissa. Toteuttamisajankohdasta voidaan työpaikkakohtaisesti (23
 2. Säännöllinen työaika on enintään 9 tuntia vuorokaudessa ja enintään 37,5 tun-
     tia viikossa.
 
-```
-Esimerkki 4
-```
-```
-Työvuorot Ma Ti Ke To Pe La Su Yht. t
-8 7,5 6 7 9 – – 37,5 t
-```
 
 ### A
 
@@ -908,175 +847,15 @@ sopimus tulee tehdä asianomaisen henkilöstöryhmän kanssa.
 ### Työehtosopimus
 
 ```
-Esimerkki 5
+.
 ```
 ```
-20 viikon mittainen työajan tasoittumisjärjestelmä ajalle 15.5.–1.10.2023.
-```
-```
-Koska jakson pituus on vähintään 19 viikkoa, tasoittumisjärjestelmä on
-oltava nähtävillä 3 viikkoa ennen jakson alkua eli viimeistään 23.4.2023.
-```
-```
-Työntekijät Työsopimustunnit / viikko Jakson kokonaistyöaika
-Työ n te k i jä A 37,5 tuntia / viikko 750 tuntia
-Työ n te k i jä B 30 tuntia / viikko 600 tuntia
-Työ n te k i jä C 20 tuntia / viikko 400 tuntia
-```
-```
-Esimerkki 6
-```
-```
-Työvuorot esimerkki 5. olevan tasoittumisjärjestelmän
-ensimmäiselle viikolle
-```
-- työaika enintään 9 t / vrk ja 48 t / vko
-- enintään 9 yli 8 työtunnin päivää 3 viikossa
-- paikallisesti sovittu 30 minuutin ruokatauoista (r)
+Kun työntekijän työsopimustunnit ovat 37,5 tuntia viikossa, on jakson kokonaistyöaika 750 tuntia.
 
-```
-Työvuoroluettelo ajalle 15.5.–21.5.2023, tiedoksi viimeistään 23.4.2023.
-```
-```
-Ma
-```
-```
-15.5.
-```
-```
-Ti
-```
-```
-16.5.
-```
-```
-Ke
-```
-```
-1 7. 5.
-```
-```
-To
-```
-```
-18.5.
-```
-```
-Pe
-```
-19. 5.
+Kun työntekijän työsopimustunnit ovat 30 tuntia viikossa, on jakson kokonaistyöaika 600 tuntia.
 
+Kun työntekijän työsopimustunnit ovat 20 tuntia viikossa, on jakson kokonaistyöaika 400 tuntia.
 ```
-La
-```
-```
-20.5.
-```
-```
-Su
-```
-```
-21.5.
-```
-```
-Yht. Jäljellä tunteja /
-viikkoja,
-keskimäärin
-t / vko
-tt A V 09 –
-```
-17. 3 0
-(r)
-
-```
-12.30
-```
-- 21
-(r)
-
-```
-12 –
-21
-(r)
-```
-```
-12 –
-21
-(r)
-```
-```
-09 –
-```
-17. 3 0
-(r)
-
-```
-10.30
-```
-- 16
-
-```
-46,5 t 328,5 t / 9 vkoa,
-keskim.
-36,5 t / vko
-tt B 13 –
-21
-(r)
-```
-```
-13 –
-21
-(r)
-```
-```
-V V 09 –
-```
-17. 3 0
-(r)
-
-```
-10 –
-18
-(r)
-```
-```
-08 –
-17
-(r)
-```
-```
-39 t 261 t / 9 vkoa,
-keskim.
-29 t / vko
-tt C 08 –
-16
-(r)
-```
-```
-10
-–18
-(r)
-```
-```
-09 –
-```
-17. 3 0
-(r)
-
-```
-08 –
-17
-(r)
-```
-```
-V 08 –
-16
-(r)
-```
-```
-V 38 t 162 t / 9 vkoa,
-keskim.
-18 t / vko
 ```
 
 ### A
