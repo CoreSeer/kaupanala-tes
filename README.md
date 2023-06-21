@@ -978,16 +978,6 @@ päätösvalta päivittäisen työn alkamis- ja päättymisajankohdista.
 Työnantajan on työntekijän pyynnöstä pyrittävä antamaan kertyneet säännöl-
 lisen työajan ylittymät kokonaisina vapaapäivinä.
 ```
-#### Muut työaikajärjestelyt
-
-14. Työehtosopimuksen liitteinä olevissa pöytäkirjoissa on esitetty muita työaika-
-    järjestelyitä:
-    - Arkipyhäjärjestelmä (s. 108)
-    - Vuosityöajan lyhennys (s. 113)
-    - Joustava kokoaikatyö (s. 119)
-    - Lisätyön tarjoaminen (s. 122)
-    - Kokoaikatyön tarjoaminen (s. 124)
-    - Työaikapankki (s. 127)
 
 ### 7 § Vapaat
 
@@ -1055,37 +1045,13 @@ että vapaapäivien välissä voi olla enintään 11 työpäivää.
 Poissaolot eivät muuta työvuoroluettelon mukaisia vapaapäiviä.
 ```
 ```
-Esimerkki 7
-```
-```
-Työvuoro- Ma Ti Ke To Pe La Su
-luettelo: T V T T T T V
-```
-```
-Sairausloma
-```
-```
-Työvuoroluettelon mukainen vapaapäivä (V) jäi sairausloman sisään
-ja vapaapäivä katsotaan pidetyksi. Työntekijä palaa töihin torstaina.
-```
+
 
 ### A
 
 ### Työehtosopimus
 
 ```
-Esimerkki 8
-```
-```
-Työvuoro- Ma Ti Ke To Pe La Su
-luettelo: T T T V T T V
-```
-```
-Sairausloma
-```
-```
-Työvuoroluettelon mukainen vapaapäivä (V) on sairausloman ulkopuolella,
-joten työntekijä palaa töihin perjantaina.
 ```
 #### Vuosivapaajärjestelmä
 
@@ -1127,15 +1093,15 @@ Työntekijä ansaitsee vuosivapaita alla olevan taulukon mukaisesti:
 #### määrä
 
 ```
-200 1 7, 5
-400 2 15
-600 3 22,5
-800 4 30
-1 000 5 3 7, 5
-1150 6 45
-1300 7 52,5
-1430 8 60
-1560 9 67, 5
+Jos työtunteja on kertynyt 200, kertyy tästä 1 vuosivapaa, joka on 7,5 vuosivapaatuntia. 
+Jos työtunteja on kertynyt 400, kertyy tästä 2 vuosivapaata, joka on 15 vuosivapaatuntia.
+Jos työtunteja on kertynyt 600, kertyy tästä 3 vuosivapaata, joka on 22,5 vuosivapaatuntia.
+Jos työtunteja on kertynyt 800, kertyy tästä 4 vuosivapaata, joka on 30 vuosivapaatuntia.
+Jos työtunteja on kertynyt 1 000, kertyy tästä 5 vuosivapaata, joka on 37,5 vuosivapaatuntia.
+Jos työtuntejs on kertynyt 1150, kertyy tästä 6 vuosivapaata, joka on 45 vuosivapaatuntia.
+Jos työtunteja on kertynyt 1300, kertyy tästä 7 vuosivapaata, joka on 52,5 vuosivapaatuntia.
+Jos työtunteja on kertynyt 1430, kertyy tästä 8 vuosivapaata, joka on 60 vuosivapaatuntia.
+Jos työtunteja on kertynyt 1560, kertyy tästä 9, 9 vuosivapaata, joka on 67,5 vuosivapaatuntia.
 ```
 ```
 Esimerkki 9
