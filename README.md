@@ -1,0 +1,2 @@
+# kaupanala-tes
+Kaupanalan työehtosopimus
