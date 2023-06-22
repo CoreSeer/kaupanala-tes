@@ -865,9 +865,9 @@ Kun työntekijän työsopimustunnit ovat 20 tuntia viikossa, on jakson kokonaist
 #### Työhönsidonnaisuusaika
 
 8. Työhönsidonnaisuusaika vuorokaudessa on, ellei paikallisesti toisin sovita
-    - enintään 9 tuntia säännöllisen työajan ollessa 8 tuntia tai lyhyempi
-    - enintään 10 tuntia säännöllisen työajan ollessa yli 8 tuntia
-    - enintään 11 tuntia säännöllisen työajan ollessa yli 9 tuntia.
+    Työhönsidonnaisuusaika vuorokaudessa on enintään 9 tuntia säännöllisen työajan ollessa 8 tuntia tai lyhyempi
+    Työhönsidonnaisuusaika vuorokaudessa on enintään 10 tuntia säännöllisen työajan ollessa yli 8 tuntia
+    Työhönsidonnaisuusaika vuorokaudessa on enintään 11 tuntia säännöllisen työajan ollessa yli 9 tuntia.
 
 ```
 Määräys koskee myyjää ja myymälätyöntekijää, huolto- ja liikenneasematyön-
@@ -1101,26 +1101,10 @@ Jos työtunteja on kertynyt 1 000, kertyy tästä 5 vuosivapaata, joka on 37,5 v
 Jos työtuntejs on kertynyt 1150, kertyy tästä 6 vuosivapaata, joka on 45 vuosivapaatuntia.
 Jos työtunteja on kertynyt 1300, kertyy tästä 7 vuosivapaata, joka on 52,5 vuosivapaatuntia.
 Jos työtunteja on kertynyt 1430, kertyy tästä 8 vuosivapaata, joka on 60 vuosivapaatuntia.
-Jos työtunteja on kertynyt 1560, kertyy tästä 9, 9 vuosivapaata, joka on 67,5 vuosivapaatuntia.
+Jos työtunteja on kertynyt 1560, kertyy tästä 9 vuosivapaata, joka on 67,5 vuosivapaatuntia.
 ```
 ```
-Esimerkki 9
-```
-```
-Työntekijän työsuhde on alkanut 14.2. Kuusi kuukautta tulee täyteen
-13.8. Työntekijän vuosivapaan ansaintaan oikeuttavia tunteja lasketaan
-14.8. alkaen.
-```
-```
-Esimerkki 10
-```
-```
-Työntekijän työsuhde on kestänyt 30.1.–28.5. Työntekijän kanssa solmi-
-taan uusi työsuhde 1.6. Vuosivapaiden ansainta alkaa työsuhteiden kestet-
-tyä yhteensä 6 kuukautta. Tältä osin noudatetaan työsopimuslain 1 luvun
-5 §:n periaatteita työsuhde-etuuksien määräytymisestä lyhytaikaisin
-keskeytyksin toisiaan seuraavissa työsuhteissa. Vuosivapaan ansaintaan
-oikeuttavia tunteja lasketaan 30.7. alkaen.
+
 ```
 #### Vuosivapaan antaminen
 
@@ -1137,27 +1121,10 @@ viimeistään ansaintavuotta seuraavan kalenterivuoden loppuun mennessä.
 
 Vuosivapaita ei saa sijoittaa vuosiloman tai muiden vapaiden ajalle.
 
-Esimerkki 11
-
-Työntekijällä on 6 päivän vuosiloma 6.4.–15.4.2023. Koska pitkäperjantai,
-pääsiäislauantai, sunnuntai ja toinen pääsiäispäivä eivät ole vuosilomapäi-
-viä,
-niin työntekijän vuosiloma päättyy lauantaina 15.4.2023.
-Vuosivapaata ei voi sijoittaa vuosiloman ajalle.
-
-To Pe La Su Ma Ti Ke To Pe La Su
-
-VL – – – – VL VL VL VL VL –
 
 Vuosivapaat on mahdollisuuksien mukaan annettava jonkin muun vapaan yh-
 teydessä. Vapaa voidaan kuitenkin antaa myös yksittäisenä päivänä, kuten
 esimerkiksi arkipyhänä.
-
-Esimerkki 12
-
-Työntekijällä on 6 päivän vuosiloma 31.3.–6.4.2023. Pitkäperjantai on 7.4.
-Koska vuosiloma on päättynyt 6.4., vuosivapaa voidaan sijoittaa pitkä-
-perjantaille 7.4.
 
 Vuosivapaita annettaessa on kuultava työntekijää. Kolme päivää tai sitä
 pidemmästä yhdenjaksoisesta vuosivapaasta on sovittava työntekijän kanssa.
@@ -1181,41 +1148,7 @@ Vuosivapaan ajalta työntekijä ansaitsee vuosilomaa.
 6. Vuosivapaa annetaan 7,5 tunnin pituisena työpäivänä.
 
 ```
-Esimerkki 13
-```
-```
-37,5 tuntia tekevä, yritys ei käytä työajan tasoittumisjärjestelmää
-Työntekijälle annetaan 1 vuosivapaa 7,5 tunnin pituisena työpäivänä.
-Viikon muina 4 työpäivänä hän on töissä yhteensä 30 tuntia.
-```
-```
-Vuosivapaita kerryttäviksi tunneiksi kirjataan 30 tuntia.
-```
-```
-Esimerkki 14
-```
-```
-Alle 37,5 tuntia tekevä, yritys ei käytä työajan tasoittumisjärjestelmää
-Työntekijän työsopimuksessa sovittu viikkotyöaika on 30 tuntia.
-Hänelle annetaan 1 vuosivapaa 7,5 tunnin pituisena työpäivänä.
-Viikon muina 4 työpäivänä hän on töissä yhteensä 22,5 tuntia.
-```
-```
-Vuosivapaita kerryttäviksi tunneiksi kirjataan 22,5 tuntia.
-```
-```
-Esimerkki 15
-```
-```
-37,5 tuntia tekevä, yritys käyttää työajan tasoittumisjärjestelmää
-Työpaikalla on käytössä 12 viikon tasoittumisjärjestelmä. Jakson enim-
-mäistyöaika on 450 tuntia (12 x 37,5). Jakson aikana on annettu 2 vuosi-
-vapaata 7,5 tunnin pituisina työpäivinä. Vuosivapaatunteja on annettu 15.
-```
-```
-Vuosivapaita kerryttäviksi tunneiksi kirjataan 435 tuntia.
-```
-```
+
 Suunniteltu työvuoro voidaan työntekijän aloitteesta sopia vuosivapaaksi.
 Vuosivapaan pituus vastaa tällöin työvuoron pituutta. Sopimisen yhteydessä
 tulee kuitenkin todeta sen mahdollinen vaikutus pidettävien vuosivapaiden
@@ -1245,20 +1178,6 @@ saamatta jäänyt työvuoroa lyhyempi vuosivapaan osa toteutetaan esimerkiksi:
 - siirtämällä ko. tunnit työaikapankkiin.
 
 ```
-Esimerkki 16
-```
-```
-Työntekijä on osittaisella hoitovapaalla. Hän tekee 6 tunnin työvuoroja
-5 päivänä viikossa. Työnantaja ja työntekijä sopivat vuosivapaan pituudeksi
-työvuoron pituuden. Työnantaja voi suunnitella sovitun pituisia vuosi-
-vapaita työvuoroluetteloon jatkossa ilman erillistä sopimista.
-```
-```
-Työntekijä on tehnyt vuoden aikana yhteensä 1 350 tuntia töitä. Hänelle
-on kertynyt 52,5 vuosivapaatuntia. Työnantajan ja työntekijän sopimalla
-tavalla työntekijä saa 8 vuosivapaata ja yhteensä 48 vuosivapaatun-
-tia. Jäljellä olevan 4,5 tunnin toteutumisesta työnantaja ja työntekijä
-voivat sopia tämän esimerkin yläpuolella olevan tekstin mukaisesti.
 ```
 #### Palkka vuosivapaan ajalta
 
@@ -1295,14 +1214,7 @@ osan maksamisesta rahakorvauksena. Rahakorvaus maksetaan seuraavana
 palkkapäivänä.
 ```
 ```
-Esimerkki 17
-```
-```
-Työntekijälle on kertynyt 4 vuosivapaata ja hän haluaa yhden vuosivapaan
-rahakorvauksena. Jäljelle jääneiden vuosivapaiden maksamisesta raha-
-korvauksena tulee sopia erikseen.
-```
-```
+
 Rahakorvauksen suuruus saadaan kertomalla vuosivapaan pituus tuntipalkalla.
 Tuntipalkassa otetaan huomioon työntekijän palkassa maksamishetkellä ole-
 vat kiinteät lisät ilman tuntikohtaisia olosuhdelisiä ja työaikalisiä.
@@ -1316,13 +1228,6 @@ Jos vuosivapaita ei ole ollut mahdollista antaa ansaintavuotta seuraavan vuo-
 den huhtikuun loppuun mennessä, vuosivapaat tulee maksaa rahakorvauk-
 sena toukokuun palkkapäivänä.
 ```
-```
-Esimerkki 18
-```
-```
-Työntekijä on pitkällä sairauslomalla. Edellisen vuoden vuosivapaita ei
-ole voitu tästä syystä antaa huhtikuun loppuun mennessä. Työnantaja
-maksaa vuosivapaat rahakorvauksena toukokuun palkkapäivänä.
 ```
 ```
 Jos vuosivapaita ei ole ollut mahdollista antaa työntekijän aloitteesta tehdyn
@@ -1457,16 +1362,15 @@ sistä toisin.
 
 #### Kahvitauko
 
-6. Työpäivän pituuden ollessa:
 
 ```
-alle 4 tuntia ei kahvitaukoa
+Työpäivän pituuden ollessa alle 4 tuntia, työntekijällä ei ole kahvitaukoa.
 ```
 ```
-4 tuntia – alle 6 tuntia 1 kahvitauko
+Työpäivän pituuden ollessa yli 4 tuntia mutta alle 6 tuntia, työntekijällä on 1 kahvitauko.
 ```
 ```
-vähintään 6 tuntia 2 kahvitaukoa
+Työpäivän pituuden ollessa vähintään 6 tuntia, työntekijällä on 2 kahvitaukoa.
 ```
 7. Kahden kahvitauon vaikeuttaessa töiden järjestelyjä annetaan 1 pidempi kah-
     vitauko. Jatkuvasti kassalla työskentelevä työntekijä saa tällöin 1 ylimääräisen
@@ -1540,26 +1444,7 @@ Vuosivapaita kerryttäviksi tunneiksi työntekijälle kirjataan tehdyt 30 tuntia
 Jos kyseisellä viikolla työntekijä tekee enemmän tunteja, niistä maksetaan
 heti korotettu palkka.
 ```
-```
-Esimerkki 20
-```
-```
-Alle 37,5 tuntia tekevä, yritys ei käytä työajan tasoittumisjärjestelmää
-```
-```
-Työntekijän viikoittainen työaika on työsopimuksen mukaan 22,5 tuntia.
-Hän on maanantaina ja tiistaina töissä yhteensä 15 tuntia.
-Keskiviikon hän on vuosi-vapaalla, jonka pituus on 7,5 tuntia.
-Kyseisen viikon työaika työntekijällä on 22,5 tuntia, johon sisältyy tehtyä
-työtä 15 tuntia ja pidettyä vuosivapaata 7,5 tuntia.
-```
-```
-Vuosivapaita kerryttäviksi tunneiksi työntekijälle kirjataan tehdyt
-15 työtuntia.
-```
-```
-Kyseisellä viikolla työntekijä voi tehdä 15 tuntia (37,5 – 22,5) lisätyötä
-yksinkertaisella palkalla
+
 ```
 7. Logistiikkatyöntekijälle maksetaan vuorokaudessa 10 tunnin jälkeen 50 %:lla
     korotettu palkka ja 12 tunnin jälkeen 100 %:lla korotettu palkka.
@@ -1587,10 +1472,10 @@ Muuten korotettu palkka maksetaan 6. kohdan mukaan.
 
 #### Korotettu palkka tasoittumisjaksossa
 
-9. Tasoittumisjärjestelmässä tehdystä tuntimäärästä
+9. Tasoittumisjärjestelmässä tehty tuntimäärä
 
 ```
-a. vähennetään yli 10 tuntia vuorokaudessa tehty työ, josta
+Tasoittumisjärjestelmässä tehdystä tuntimäärästä vähennetään yli 10 tuntia vuorokaudessa tehty työ, josta
 ```
 - maksetaan erikseen 50 %:lla korotettu palkka ja
 - varastossa 12 tunnin jälkeen 100 %:lla korotettu palkka.
@@ -1604,34 +1489,15 @@ vuorokaudessa tehty työ, josta
 - maksetaan erikseen 100 %:lla korotettu palkka.
 
 ```
-b. vähennetään tasoittumisjakson viikkojen enimmäistyöajat
+Tasoittumisjärjestelmässä tehdystä tuntimäärästä vähennetään tasoittumisjakson viikkojen enimmäistyöajat
 ```
 - viikkojen lukumäärä x 37,5 tuntia. Tasoittumisjakson työaikaan
     lasketaan mukaan jakson aikana annetut vuosivapaat.
 
 ```
-c. maksetaan erotuksesta 50 %:lla korotettu palkka.
+Tasoittumisjärjestelmässä tehdystä tuntimäärästä maksetaan erotuksesta 50 %:lla korotettu palkka.
 ```
 ```
-Esimerkki 21
-```
-```
-37,5 tuntia tekevä, yritys käyttää tasoittumisjärjestelmää
-```
-```
-Työpaikalla on käytössä 12 viikon tasoittumisjärjestelmä, jolloin jaksolle
-suunniteltava työaika on (12 x 37,5) 450 tuntia. Jakson aikana työnte-
-kijälle on annettu kaksi 7,5 tunnin pituista vuosivapaata. Jaksolle suun-
-nitellusta työajasta tehtyjä työtunteja on 435 ja vuosivapaatunteja 15.
-```
-```
-Työntekijä on tehnyt jaksolle suunniteltujen 450 tunnin lisäksi 50 tuntia
-työtä, eli jakson kokonaistuntimäärä on 500 tuntia. Näistä tunneista on
-10 tuntia vuorokaudessa ylittäviä tunteja 12. Jakson työajasta vähennetään
-erikseen 50 %:lla korvattavat 10 tuntia ylittävät tunnit (500 – 12), jolloin
-tunteja jää 488. Tästä tuntimäärästä vähennetään kyseiselle jaksolle
-suunniteltu tuntimäärä 450 tuntia, jolloin 50 %:lla korvattavia tunteja jää
-38 tuntia.
 ```
 
 ### A
@@ -1647,64 +1513,13 @@ työtuntia.
 Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia
 viikossa ylittävä työ eli 5 tuntia (485 – 12 x 40).
 
-Esimerkki 22
-
-**_Alle 37,5 tuntia tekevä tuntipalkkainen työntekijä, yritys käyttää
-tasoittumisjärjestelmää_**
-
-Työntekijän työsopimuksessa sovittu viikkotyöaika on 30 tuntia. Työ-
-paikalla on käytössä 12 viikon tasoittumisjärjestelmä. Jaksolle suunni-
-teltu tuntimäärä on (12 x 30) 360 tuntia. Jakson aikana työntekijälle
-on annettu kaksi 7,5 tunnin pituista vuosivapaata.
-
-Jakson enimmäistyöaika korotetun palkan osalta on sama kuin koko-
-aikaisella työntekijällä eli 450 tuntia (12 x 37,5).
-
-Työntekijä on tehnyt jaksolle suunniteltujen 360 tunnin lisäksi ylimää-
-räistä työtä 95 tuntia eli jakson kokonaistuntimäärä on 455 tuntia.
-
-Työntekijälle maksetaan yksinkertainen tuntipalkka 450 tunnista ja
-50 %:lla korotettu palkka jakson enimmäistyöajan ylittävistä 5 tunnista.
-
-Vuosivapaita kerryttäviksi tunneiksi kirjataan tosiasiassa tehdyt 440 tuntia
-(345 + 95).
-
-Ylityökirjanpitoon kirjattavia tunteja ei jaksolla ole tehty.
 
 
 ### A
 
 ### Työehtosopimus
 
-```
-Esimerkki 23
-Alle 37,5 tuntia tekevä ja suhteutettua kuukausipalkkaa saava työntekijä,
-yritys käyttää tasoittumisjärjestelmää
-Työntekijän työsopimuksessa sovittu viikkotyöaika on 30 tuntia, jonka
-perusteella hänelle on laskettu suhteutettu kuukausipalkka. Työpaikalla
-on käytössä 12 viikon tasoittumisjärjestelmä. Jaksolle suunniteltu tunti-
-määrä on 360 tuntia (12 x 30). Jakson aikana työntekijälle on annettu
-kaksi 7,5 tunnin pituista vuosivapaata.
-```
-```
-Jakson enimmäistyöaika korotetun palkan osalta on sama kuin koko-
-aikaisella työntekijällä eli 450 tuntia (12 x 37,5).
-```
-```
-Työntekijä on tehnyt jaksolle suunniteltujen 360 tunnin lisäksi ylimää-
-räistä työtä 95 tuntia eli jakson kokonaistuntimäärä on 455 tuntia.
-```
-```
-Työntekijä saa normaalin palkkansa lisäksi yksinkertaisen tuntipalkan
-suunniteltujen tuntien lisäksi tehdyiltä 90 tunnilta ja 50 %:lla korotetun
-palkan jakson enimmäistyöajan ylittävistä 5 tunnista.
-```
-```
-Vuosivapaita kerryttäviksi tunneiksi kirjataan tosiasiassa tehdyt 440 tuntia
-(345 + 95).
-```
-```
-Ylityökirjanpitoon kirjattavia tunteja ei jaksolla ole tehty.
+
 ```
 10. Tasoittumisjakson säännölliseen työaikaan lasketaan mukaan myös sellaiset
     tasoittumisjärjestelmässä ilmoitetut tunnit, joiden aikana työntekijä on ollut
@@ -1733,14 +1548,18 @@ Ylityökirjanpitoon kirjattavia tunteja ei jaksolla ole tehty.
     rän ylittäviltä tunneilta
 
 ```
-a. korottamaton säännöllisen työajan palkka jos:
+Työsopimuksen päättyessä kesken tasoittumisjakson ja työajan jäädessä
+    tasoittumatta keskimääräiseen 37,5 viikkotuntiin maksetaan tämän tuntimää-
+    rän ylittäviltä tunneilta korottamaton säännöllisen työajan palkka jos:
 ```
 - työnantajalla on oikeus päättää työsopimus työntekijästä johtuvista
     syistä tai
 - työntekijä irtisanoo työsopimuksen.
 
 ```
-b. 50 %:lla korotettu palkka jos:
+Työsopimuksen päättyessä kesken tasoittumisjakson ja työajan jäädessä
+    tasoittumatta keskimääräiseen 37,5 viikkotuntiin maksetaan tämän tuntimää-
+    rän ylittäviltä tunneilta 50 %:lla korotettu palkka jos:
 ```
 - työntekijällä on oikeus purkaa työsopimus tai
 - työnantaja irtisanoo sopimuksen taloudellisista tai tuotannollisista syistä.
@@ -1752,19 +1571,7 @@ dissa 50 %:lla korotettu palkka. Logistiikkatyöntekijälle maksetaan korvaus
 7. kohdan mukaan.
 
 ```
-Esimerkki 24
-```
-```
-Työpaikalla on käytössä 12 viikon tasoittumisjakso, jonka enimmäistyöaika
-on (12 x 37,5) 450 tuntia. Työnantaja on irtisanonut työsopimuksen
-taloudellisista syistä ja se päättyy viikon 8 lopussa.
-```
-```
-Työntekijä on tehnyt viikoilla 1–8 yhteensä 336 tuntia, joista 10 tuntia
-ylittäviä tunteja on 12. Tehdyistä tunneista vähennetään erikseen 50 %:lla
-korvattavat 10 tuntia ylittävät tunnit (336 – 12), jolloin tunteja jää 324.
-Tästä tuntimäärästä vähennetään kyseisten 8 viikon enimmäistyöaika
-(8 x 37,5) 300 tuntia, jolloin 50 %:lla korvattavia tunteja jää (324 – 300) 24.
+
 ```
 15. Työsopimuksen päättyessä kesken tasoittumisjakson ja kokoaikatyöntekijän
     keskimääräisen viikkotyöajan jäädessä alle 37,5 tunnin vähennetään teke-
@@ -1803,11 +1610,13 @@ työntekijän lopputilistä.
     netta nosteta:
 
 ```
-a. työsuhteen jatkuessa 2 vuoden kuluessa sen kalenterivuoden päättymi-
-sestä, jonka aikana oikeus korvaukseen on syntynyt
+Lisä- ja ylityökorvaukset vanhentuvat työaikalain 40 §:n mukaan, ellei kan-
+    netta nosteta työsuhteen jatkuessa 2 vuoden kuluessa sen kalenterivuoden päättymi-
+sestä, jonka aikana oikeus korvaukseen on syntynyt.
 ```
 ```
-b. työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on päättynyt.
+Lisä- ja ylityökorvaukset vanhentuvat työaikalain 40 §:n mukaan, ellei kan-
+    netta nosteta työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on päättynyt.
 ```
 ### 10 § Sunnuntaityö
 
@@ -1851,14 +1660,6 @@ kohta).
        keta palvelusaikaan).
 
 ```
-Esimerkki 25
-```
-```
-Kioskimyyjänä 3 vuotta työskennellyt henkilö palkataan kenkäkauppaan
-myyjäksi.  Myyjänä työskennelty aika otetaan kokonaisuudessaan huo-
-mioon palvelusaikaa laskettaessa. Kokemusvuosiensa perusteella hän
-on 3. vuoden myyjä.
-```
 3. Kokemus muussa ammatissa otetaan huomioon kohtuullisessa määrin, jos se
     osittain vastaa työssä vaadittavaa ammattikokemusta. Tämä pyritään totea-
     maan työsopimusta tehtäessä.
@@ -1869,13 +1670,6 @@ on 3. vuoden myyjä.
 ### Työehtosopimus
 
 ```
-Esimerkki 26
-```
-```
-Myyjänä aiemmin työskennellyt henkilö palkataan toiseen yritykseen
-varastotehtäviin. Tällöin palvelusaikaa laskettaessa menetellään kohdan
-```
-3. mukaisesti.
 
 #### Koulutus
 
@@ -1883,15 +1677,6 @@ varastotehtäviin. Tällöin palvelusaikaa laskettaessa menetellään kohdan
     kon 3. vuoden työntekijä.
 
 ```
-Esimerkki 27
-```
-```
-Työntekijällä on 2 vuotta työkokemusta myyjänä ennen, kun hän suorittaa
-liiketalouden perustutkinnon (merkonomi). Tutkinnon suoritettuaan hän
-siirtyy 3. vuoden työntekijäksi. Ilman tutkintotodistusta hän olisi jatkanut
-vuoden ajan 1. vuoden työntekijänä ennen siirtymistä seuraavaan vuosipor-
-taaseen. Tutkinnon suorittamisesta hän hyötyi työkokemustaustallaan
-yhden vuoden.
 ```
 #### Työskentely vaativammassa tehtävässä
 
@@ -1950,39 +1735,7 @@ lukumäärää.
 ### Työehtosopimus
 
 ```
-Esimerkki 28
-```
-```
-Työssä Poissaolo
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20...
-```
-```
-1.–12. välisenä aikana on 8 palkkaan oikeuttavaa päivää,
-7 työpäivää ja 1 vuosivapaa.
-Kuukausipalkka on 1 848 euroa.
-```
-```
-Työpäivän palkka: 1 848 euroa: 21 = 88 euroa.
-Palkkaa maksetaan (8 × 88 euroa) 704 euroa.
-```
-```
-Esimerkki 29
-```
-```
-Työssä Poissaolo
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21... 30
-```
-```
-1.–17. välisenä aikana on 13 palkkaan oikeuttavaa päivää.
-18.–30. välisenä aikana on poissa oltuja työpäiviä 9.
-```
-```
-Kuukausipalkka on 1 848 euroa.
-```
-```
-Työpäivän palkka: 1 848 euroa : 21 = 88 euroa.
-Poissa oltujen työpäivien palkka: 9 × 88 euroa = 792 euroa.
-Palkkaa maksetaan (1 848 euroa – 792 euroa) 1 056 euroa.
+
 ```
 #### Koululaispalkka
 
@@ -2013,8 +1766,7 @@ tissa 2 kuukautta palkka määräytyy harjoittelijan mukaan.
 14. Työntekijälle voidaan maksaa kuukausipalkka sovitun viikkotyöajan ja 37,5
     tunnin suhteessa seuraavan kaavan mukaan:
 
-kokoaikatyöntekijän taulukkopalkka  x  sovittu viikkotyöaika
-3 7, 5
+kokoaikatyöntekijän taulukkopalkka kerrottuna sovitulla viikkotyöajalla jaettuna luvulla 37,5.
 
 ```
 Suhteutettua kuukausipalkkaa saavan työntekijän tuntipalkka määräytyy
@@ -2155,11 +1907,6 @@ Lisä maksetaan myös muulle työntekijälle 3. kohdan 3. kappaleen mukaan.
 ### Työehtosopimus
 
 ```
-Esimerkki 30
-Työntekijän työaika päättyy lauantaina klo 16.00. Lauantailisä maksetaan
-kaikilta klo 13.00 jälkeen tehdyiltä työtunneilta siitä riippumatta, ovatko
-tunnit työvuoroluettelon mukaisia säännölli-
-siä tunteja, lisä- tai ylityötunteja.
 ```
 #### Inventaarilisä lauantaina.............................................................................................
 
@@ -2207,10 +1954,10 @@ Lisän suuruus on vähintään:
 #### Lisä %
 
 ```
-4–5 5
-6–10 10
-11–20 15
-21– 20
+Vakinaisten työntekijöiden määrän ollessa 4–5, maksetaan 5 % sijaisuuslisä.
+Vakinaisten työntekijöiden määrän ollessa 6–10, maksetaan 10 % sijaisuuslisä.
+Vakinaisten työntekijöiden määrän ollessa 11–20, maksetaan 15 % sijaisuuslisä.
+Vakinaisten työntekijöiden määrän ollessa 21 tai yli, maksetaan 20 % sijaisuuslisä.
 ```
 ```
 Maksettaessa 11 §:n 6. kohdan mukaista lisää (tilapäinen siirto) myymälänhoi-
