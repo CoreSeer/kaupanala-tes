@@ -2354,31 +2354,26 @@ vaavan työn käytöstä yrityksessä.
 
 6. Palkka maksetaan kunkin työkyvyttömyystapauksen yhteydessä seuraavasti:
 
-#### Työsuhteen kesto
-
-#### sairastumishetkellä
-
-#### Palkallisen jakson pituus
 
 ```
-alle kuukausi sairausvakuutuslain karenssi-
-ajalta 50 % palkasta
+Työsuhteen keston ollessa sairastumishetkellä alle kuukausi, on palkallisen jakson pituus sairausvakuutuslain karenssi-
+ajalta 50 % palkasta.
 ```
 ```
-vähintään kuukausi sairausvakuutuslain
-karenssi aika
+Työsuhteen keston ollessa sairastumishetkellä vähintään kuukausi, on palkallisen jakson pituus sairausvakuutuslain
+karenssiaika.
 ```
 ```
-vähintään 3 kk mutta alle 3 vuotta 4 viikkoa
+Työsuhteen keston ollessa sairastumishetkellä vähintään 3 kk mutta alle 3 vuotta, on palkallisen jakson pituus 4 viikkoa.
 ```
 ```
-3 vuotta – alle 5 vuotta 5 viikkoa
+Työsuhteen keston ollessa sairastumishetkellä 3 vuotta – alle 5 vuotta, on palkallisen jakson pituus 5 viikkoa.
 ```
 ```
-5 vuotta – alle 10 vuotta 6 viikkoa
+Työsuhteen keston ollessa sairastumishetkellä 5 vuotta – alle 10 vuotta, on palkallisen jakson pituus 6 viikkoa.
 ```
 ```
-vähintään 10 vuotta 8 viikkoa
+Työsuhteen keston ollessa sairastumishetkellä vähintään 10 vuotta, on palkallisen jakson pituus 8 viikkoa.
 ```
 ```
 Palkallisen jakson pituus on kuitenkin enintään 3 kuukautta työsuhteen kes-
@@ -2465,44 +2460,7 @@ ne työntekijältä, kuitenkin enintään maksamansa määrän.
 
 ### Työehtosopimus
 
-```
-Esimerkki 31
-```
-```
-Työntekijän työsuhde on kestänyt 1 vuoden. Työntekijä saa sairastuessaan
-työsuhteen keston perusteella palkkaa enintään 4 viikolta eli 28 kalente-
-ripäivältä. Jaksoon sisältyviltä työpäiviltä maksetaan sairausajan palkka.
-```
-```
-Sairaus- Sairaus- Sairaus-
-poissaolo poissaolo poissaolo
-```
-```
-1.4. 13.4. 21.4. 5.5. 16.5. 30.5.
-```
-```
-13 pv + 15 pv 1 pv
-```
-```
-28 pv
-```
-```
-Ensimmäinen sairausjakso 1.4.–13.4. = 13 kalenteripäivää.
-Palkka maksetaan 13 kalenteripäivään sisältyviltä työpäiviltä.
-```
-```
-Toinen sairausjakso samasta sairaudesta 21.4.–16.5. = 26 kalenteripäivää.
-Palkka maksetaan jäljellä oleviin (28 – 13) 15 kalenteripäivään 21.4.–5.5.
-sisältyviltä työpäiviltä.
-```
-```
-Saman sairauden takia työntekijä jää vielä 30.5. sairauslomalle. Palkka
-maksetaan tältä jaksolta ainoastaan sairausvakuutuslain karenssiajalta
-eli sairastumispäivältä 30.5. sen ollessa työntekijän työpäivä.
-```
-```
-Saman sairauden uusiutuessa yli 30 päivän kuluttua töihin palaamisesta
-sairausajan palkka maksetaan niin kuin kyseessä olisi uusi sairaus.
+
 ```
 #### Karanteeni
 
@@ -2563,30 +2521,7 @@ katon poissaolo.
 ### Työehtosopimus
 
 ```
-Esimerkki 32
-```
-```
-Työvuoro- Ma Ti Ke To Pe La Su
-luettelo: T T V T T T V
-lapsi sairaana ja
-työntekijä pois töistä
-```
-```
-Palkka maksetaan vain 3 kalenteripäivään (Ma–Ke) sisältyviltä työpäiviltä
-(Ma –T i).
-```
-```
-Esimerkki 33
-```
-```
-Työvuoro- To Pe La Su Ma Ti
-luettelo: T T V V T T
-lapsi sairaana ja
-työntekijä pois töistä
-```
-```
-Palkka maksetaan vain 3 kalenteripäivään (Pe–Su) sisältyvältä työpäivältä
-(Pe).
+
 ```
 #### Vihkiminen ja merkkipäivä
 
@@ -2838,38 +2773,14 @@ Lomaa ansaitaan 35 tunnin säännön perusteella työntekijän työskennellessä
 työsopimuksen mukaan alle 14 päivää kuukaudessa.
 ```
 ```
-Esimerkki 34
-37,5 tuntia tekevän työntekijän toistaiseksi voimassa oleva työsopimus päät-
-tyi koeaikapurkuun 10 työpäivän (= 75 työtunnin) jälkeen. Työsopimuksensa
-mukaan työntekijällä olisi ollut mahdollisuus työskennellä 14 työpäivänä
-kuukaudessa, mikäli työsuhde olisi jatkunut. Lomaoikeus lasketaan ”14 työ-
-päivän” -ansaintasäännön perusteella.
-Työntekijä ei ansaitse vuosilomapäiviä, mutta hänelle maksetaan työehto-
-sopimuksen mukainen prosentuaalinen lomakorvaus.
-```
+
 
 ### A
 
 ### Työehtosopimus
 
 ```
-Esimerkki 35
-37,5 tuntia tekevän määräaikainen työsopimus päättyi sopimuksen mukaan
-10 työpäivän (= 75 työtunnin) jälkeen. Työsopimuksensa mukaan työnteki-
-jällä ei olisi ollut mahdollisuutta työskennellä 14 työpäivänä kuukaudessa
-työsuhteensa aikana. Lomaoikeus lasketaan ”35 työtunnin”-ansaintasään-
-nön perusteella.
-Työntekijä ansaitsi työsuhteensa ajalta 2 lomapäivää, jonka perusteella
-hänelle maksetaan lomakorvaus.
-```
-```
-Esimerkki 36
-Työntekijä työskentelee 8 tuntia päivässä. Työpäiviä on viikossa 3.
-Työsopimuksensa mukaan työntekijällä ei ole mahdollisuutta työskennellä
-14 työpäivänä kuukaudessa. Lomaoikeus lasketaan ”35 työtunnin” -ansain-
-tasäännön perusteella.
-Työntekijä ansaitsee vuosilomaa jokaiselta kuukaudelta, jossa on vähintään
-35 työtuntia.
+
 ```
 #### Loman antaminen
 
@@ -2968,60 +2879,13 @@ maksetuista lisistä:
        mennessä vähintään vuoden.
 
 ```
-Esimerkki 37
-```
-```
-Työntekijä on ollut työsuhteessa lomanmääräytymisvuoden loppuun
-(31.3.) mennessä 8 kuukautta, näistä 5 kuukautena kunakin vähintään
-35 tuntia. Lomanmääräytymisvuoden 1.4.–31.3. koko työssäoloajan
-ansio ilta- ja lauantailisineen on 6 130 euroa. Ansiossa on huomioitu
-myös pidettyjen vuosivapaiden ajalta maksettu palkka.
-```
-```
-Työntekijä on ansainnut vuosilomaa 5 × 2 päivää eli 10 päivää. Loma-
-palkkaa hän saa 10 % 6 130 eurosta eli 613 euroa. Yhden annettavan
-lomapäivän palkka saadaan jakamalla lomapalkka lomapäivillä eli
-613 euroa: 10 = 61,30 euroa.
-```
-```
-Lomarahana maksetaan 50 % 613 eurosta eli 306,50 euroa.
-```
 
 ### A
 
 ### Työehtosopimus
 
 ```
-Esimerkki 38
-```
-```
-Työntekijä on ollut työsuhteessa lomanmääräytymisvuoden loppuun
-(31.3.) mennessä yli vuoden. Hän on työskennellyt joka kuukausi
-vähintään 35 tuntia.
-```
-```
-Lomanmääräytymisvuoden 1.4.–31.3. koko työssäoloajan ansio ilta- ja
-lauantailisineen on 16 320 euroa. Ansiossa on huomioitu myös pidetty-
-jen vuosivapaiden ajalta maksettu palkka. Työssäoloajan palkkaan lisä-
-tään laskennallista palkkaa 9. kohdan mukaisten poissaolojen ajalta,
-jos työntekijällä olisi niitä ollut lomanmääräytymisvuoden aikana.
-```
-```
-Työssäoloajan ansioon ei oteta mukaan maksettuja lomapalkkoja eikä
-lomarahoja.
-```
-```
-Työntekijä on ansainnut vuosilomaa 12 × 2,5 päivää eli 30 päivää. Kerty-
-neestä lomasta annetaan 24 päivää kesälomana ja 6 päivää talvilomana.
-```
-```
-Lomapalkkaa hän saa 12,5 % 16 320 eurosta eli 2 040 euroa.
-```
-```
-Yhden annettavan lomapäivän palkka saadaan jakamalla loma-
-palkka lomapäivillä eli 2 040 euroa : 30 = 68 euroa. Kesälomapalkka
-on 24 × 68 = 1 632 euroa. Talvilomapalkka on 6 × 68 euroa = 408
-euroa. Lomaraha on 50 % kesäloma- ja talvilomapalkasta.
+
 ```
 9. Lomanmääräytymisvuoden (1.4.–31.3.) ansio muodostuu:
     - työssäoloajan palkasta lukuun ottamatta hätä- ja ylityön ajalta makset-
@@ -3032,37 +2896,10 @@ euroa. Lomaraha on 50 % kesäloma- ja talvilomapalkasta.
     - sairauspoissaolojen ajalta yhteensä enintään 75 työpäivältä lomamää-
        räytymisvuoden aikana (75 työpäivän jaksoon sisältyvät palkalliset
        sairauspoissaolot).
-
-
-### A
-
-### Työehtosopimus
-
-Esimerkki 39
-
-**a.** Työntekijän työsuhde on kestänyt 4 vuotta ja hän työskentelee 5 päi-
-vänä viikossa. Hänellä on ollut lomanmääräytymisvuoden aikana yksittäi-
-siä palkallisia sairauspoissaoloja yhteensä 40 työpäivää ja lisäksi yhden-
-jaksoinen 9 viikon sairauspoissaolo, jonka ajalta palkkaa on maksettu
-5 viikolta eli 25 työpäivältä.
-
-Lomanmääräytymisvuoden ansioon lasketaan sairauspoissaolojen ajalta
-maksettu palkka 65 (40 + 25) työpäivältä sekä lisäksi laskennallista
-palkkaa 10 päivältä eli palkkaa yhteensä 75 työpäivältä.
-
-**b.** Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5 päi-
-vänä viikossa. Hänellä on ollut lomanmääräytymisvuoden aikana yksittäi-
-siä palkallisia sairauspoissaoloja yhteensä 40 työpäivää ja lisäksi yhden-
-jaksoinen 9 viikon sairauspoissaolo, jonka ajalta palkkaa on maksettu
-8 viikolta eli 40 työpäivältä.
-
-Lomanmääräytymisvuoden ansioon lasketaan sairauspoissaolojen ajalta
-maksettu palkka 75 (40 + 35) työpäivältä.
-
-- sairauspoissaolojen ajalta yhteensä enintään 105 kalenteripäivältä ansait-
+ - sairauspoissaolojen ajalta yhteensä enintään 105 kalenteripäivältä ansait-
     taessa lomaa 35 tunnin säännön mukaan (105 kalenteripäivän jaksoon
     sisältyvät palkalliset sairauspoissaolot)
-- raskaus- ja vanhempainvapaan vuosilomaa kerryttävältä ajalta
+   - raskaus- ja vanhempainvapaan vuosilomaa kerryttävältä ajalta
 - lomautuksen ajalta enintään 30 työpäivältä lomautusta kohden
 - lomautuksen ajalta yhteensä enintään 42 kalenteripäivältä ansaittaessa
     lomaa 35 tunnin säännön mukaan
@@ -3093,11 +2930,10 @@ työajan mukaan
 12. Jos alle 37,5 tuntia tekevällä työntekijällä ei ole lomapäiviä, lomakorvaus mak-
     setaan viimeistään lomakauden loppuun (30.9.) mennessä.
 
+
 ### 20 a § Vuosilomalain mukaisen lisävapaapäivän korvaus
 
-#### kuukausipalkkaisella työntekijällä............................................................................. Lisävapaapäivän korvauksen laskenta kokoaikaisella
-
-#### kuukausipalkkaisella työntekijällä
+#### Lisävapaapäivän korvauksen laskenta kokoaikaisella kuukausipalkkaisella työntekijällä
 
 1. Yhden lisävapaapäivän palkka saadaan kuukausipalkasta jakajalla 25. Tähän
     lisätään todellinen tai keskimääräinen työaikalisien kertymä samalla tavalla
@@ -3154,41 +2990,7 @@ Lomaraha maksetaan myös työntekijän:
 ```
 Edellytysten jäädessä toteutumatta lomaraha voidaan periä takaisin.
 ```
-```
-Esimerkki 40
-```
-```
-37,5 tuntia tekevä pitää 24 päivää kesälomaa ja 6 päivää talvilomaa.
-Työntekijän peruskuukausipalkka on 1 680 euroa ja kuukausikohtaisia lisiä
-hän saa 5 % eli 84 euroa. Työntekijä on ansainnut lomanmääräytymisvuo-
-delta 1.4.–31.3. tuntikohtaisia lisiä (ilta- ja lauantailisiä) 968 euroa.
-Vuosilomapalkkaan niistä lisätään 12,5 % eli 121 euroa.
-```
-```
-Kesälomapalkka on:
-(1 680 euroa + 84 euroa) × 24 + (24/30 × 121 euroa) = 1 790,24 euroa
- 25
-```
-```
-Lomaraha kesäloman osalta on 50 % kesälomapalkasta 1 790,24 eurosta
-eli 895,12 euroa.
-```
 
-### A
-
-### Työehtosopimus
-
-```
-Talvilomapalkka on:
-(1 680 euroa + 84 euroa) × 6 + (6/30 × 121 euroa) = 447,56 euroa.
- 25
-```
-```
-Lomaraha talviloman osalta on 50 % talvilomapalkasta 447,56 eurosta
-eli 223,78 euroa.
-```
-```
-Lomaraha kesä- ja talviloman osalta on yhteensä 1 118,90 euroa.
 ```
 #### Hoitovapaa
 
@@ -3211,18 +3013,7 @@ tai lomakorvauksesta.
     tai loman viimeisenä päivänä maksetaan lomaraha.
 
 ```
-Esimerkki 41
-```
-```
-Työntekijän työsuhde irtisanottiin 30.5. taloudellisilla ja tuotannollisilla
-perusteilla päättymään 30.7. Työntekijän kesäloman ajankohdaksi oli
-sovittu 14.7.–10.8.
-```
-```
-Työntekijä saa lomarahana 50 % sovitun kesälomansa (14.7.–10.8.)
-lomapalkasta. Lopputilin yhteydessä maksettavasta lomakorvauksesta
-lomarahaa ei makseta.
-```
+
 
 ### A
 
@@ -3244,17 +3035,7 @@ Puolet kesäloman lomarahasta voidaan maksaa viimeistään joulua edeltävänä
 palkanmaksupäivänä. Työsuhteen päättyessä ennen sitä lomaraha maksetaan
 lopputilissä.
 ```
-```
-Esimerkki 42
-Työntekijän lomaraha kesäloman osalta on 895,12 euroa. Se maksetaan
-loman alkaessa.
-Toisena vaihtoehtona on maksaa loman alkaessa puolet lomarahasta eli
-447,56 euroa. Toinen osa 447,56 euroa maksetaan viimeistään joulua
-edeltävän palkanmaksun yhteydessä.
-Jos työntekijän työsuhde päättyy esimerkiksi lokakuussa, loma-
-rahan toinen osa maksetaan lopputilin yhteydessä.
-```
-```
+
 Enintään 6 lomapäivän lomaraha voidaan maksaa yrityksen normaalina
 palkanmaksupäivänä.
 ```
@@ -3276,30 +3057,7 @@ säännöksiä.
 ### Työehtosopimus
 
 ```
-Esimerkki 43
-```
-```
-Työntekijän lomaraha on 600 euroa ja tuntipalkka 10 euroa. Työntekijä
-ja työnantaja ovat sopineet koko lomarahan vaihtamisesta vapaaksi.
-Työntekijä saa palkallista vapaa-aikaa 60 tuntia.
-```
-```
-Esimerkki 44
-```
-```
-Työntekijän lomaraha on 750 euroa ja tuntipalkka 11,59 euroa. Työntekijän
-työsopimustunnit ovat 30 t/viikko. Työntekijä ja työnantaja ovat sopineet,
-että työntekijä pitää 2 viikkoa lomarahavapaata. Työntekijän lomaraha on
-750 euroa ja tuntipalkka 11,59 euroa. Työntekijän työsopimustunnit ovat
-30 t/viikko. Työntekijä ja työnantaja ovat sopineet, että työntekijä pitää
-2 viikkoa lomarahavapaata.
-```
-```
-Työntekijän koko lomarahavapaa olisi 64,71 tuntia, josta vähennetään
-2 viikon työtunnit (60 t/2viikkoa). Jäljelle jäävät tunnit (4,71 tuntia)
-maksetaan rahana. Työntekijä saa palkallista vapaa-aikaa 2 viikkoa
-(30 t/viikko) ja tämän lisäksi hänelle maksetaan lomarahaa 54,59 euroa.
-```
+
 #### Alle 37,5 tuntia tekevät
 
 9. Lomarahan maksaminen edellyttää, että työntekijä on ansainnut vuosilomapäiviä.
@@ -3309,7 +3067,7 @@ maksetaan rahana. Työntekijä saa palkallista vapaa-aikaa 2 viikkoa
 
 ### Työehtosopimus
 
-## 7. M AT K AT
+## 7. MATKAT
 
 ### 22 §  Matkakustannukset
 
@@ -3600,9 +3358,9 @@ Asian jäädessä erimieliseksi laaditaan 2 kappaleena erimielisyysmuistio.
 
 #### Vaativuustaso Ohjeellinen ansioluku
 
-1. 1 750–2 050 euroa
-2. 1 900–2 350 euroa
-3. 2 150–2 600 euroa
+Vaativuustasolla 1 onjeellinen ansioluku on 1 750–2 050 euroa.
+Vaativuustasolla 2 ohjeellinen ansioluku on 1 900–2 350 euroa.
+Vaativuustasolla 3 ohjeellinen ansioluku on 2 150–2 600 euroa.
 
 ```
 Ohjeelliset ansioluvut eivät ole sitovia vähimmäispalkkoja.
@@ -3725,11 +3483,11 @@ den palkasta.
 #### 1.6.2024 alk.
 
 ```
-Huolto- ja liikenneasematyöntekijä I A A
-Huolto- ja liikenneasematyöntekijä II B1 B
-Huoltoasentaja I B2 B
-Huoltoasentaja II C1 C
-Huoltoasentaja III C2 C
+Huolto- ja liikenneasematyöntekijä I: palkkaryhmä 31.5.2024 asti on A, 1.6.2024 alkaen se on A.
+Huolto- ja liikenneasematyöntekijä II: palkkaryhmä 31.5.2024 asti on B1, 1.6.2024 alkaen se on B.
+Huoltoasentaja I: palkkaryhmä 31.5.2024 asti on B2, 1.6.2024 alkaen se on B.
+Huoltoasentaja II palkkaryhmä 31.5.2024 asti on C1, 1.6.2024 alkaen se on C.
+Huoltoasentaja III: palkkaryhmä 31.5.2024 asti on C2, 1.6.2024 alkaen se on C.
 ```
 ```
 Palkkaryhmä määräytyy sen mukaan, mitä työtä työntekijä tekee pääosan
@@ -3963,7 +3721,7 @@ Muilta osin noudatetaan 1. kohtaa.
 
 ### B
 
-## S O M I S TA JAT
+## SOMISTAJAT
 
 ### 1 § Ulottuvuus
 
@@ -4002,7 +3760,7 @@ hoitaa lehti-ilmoituksia.
 
 ### B
 
-#### Erityisen vaativa somistus .........................................................................................
+#### Erityisen vaativa somistus
 
 4. Somistajan tehdessä erityisen vaativaa somistusta hänelle maksetaan vähin-
     tään Somistaja II:n palkkaa 20 %:lla korotettuna.
@@ -4015,7 +3773,7 @@ Erityisen vaativaa somistusta on esimerkiksi:
 - messu- tai näyttelyosastojen suunnittelu
 - näytöksien showtekniikan järjestely.
 
-#### Työskentely vaativammassa tehtävässä ................................................................
+#### Työskentely vaativammassa tehtävässä
 
 5. Lisä määräytyy työehtosopimuksen 11 §:n 5. kohdan mukaan. Työskentely
     vaativammassa tehtävässä huomioidaan työehtosopimuksen 11 §:n 5. koh-
@@ -4047,7 +3805,7 @@ Vaativammaksi voidaan katsoa myös tehtävä, jossa
     kasneuvonnassa työskenteleviä.
 2. Pöytäkirja ei koske tukkumyyjää, joka saa osan tai koko palkan provisiona.
 
-### 2 §  Vaativuustasot...........................................................................................
+### 2 §  Vaativuustasot
 
 1. Vaativuustasoihin sijoittelussa otetaan huomioon mm. seuraavia vaativuus-
     tekijöitä:
@@ -4118,7 +3876,7 @@ työehtomääräyksiä.
 
 ### B
 
-## LO G I S T I I K K AT YÖ N T E K I JÄT
+## LOGISTIIKKATYÖNTEKIJÄT
 
 ### 1 §  Suorituspalkkaus
 
@@ -4251,43 +4009,13 @@ johtuva perusteltu syy.
 Lauantain ollessa kiinteä vapaapäivä se on vapaa myös arkipyhäviikolla.
 ```
 ```
-Esimerkki 45
-```
-```
-Yritys ei käytä työajan tasoittumisjärjestelmää:
-Myyjän keskimääräinen viikkotyöaika on 37,5 tuntia. Arkipyhäviikko on
-viikolla 14. Työajan lyhennys voidaan toteuttaa viikoilla 12–16 lyhentämällä
-valitun viikon työpäivien määrää 1:llä ja viikkotyöaikaa 7,5 tunnilla (7 tun-
-nilla 30 minuutilla). Lyhennysviikolla työpäiviä on 4 ja viikkotyöaika on
-30 tuntia (30 tuntia).
+
 ```
 
 ### Työaikapöytäkirjat
 
 ### C
 
-```
-Esimerkki 46
-```
-```
-Yritys käyttää työajan tasoittumisjärjestelmää:
-Myyjän keskimääräinen viikkotyöaika on 37,5 tuntia. Arkipyhäviikko on
-6 viikon tasoittumisjärjestelmän 3. viikolla.
-```
-```
-6 viikon tasoittumisjärjestelmä:
-```
-```
-Viikko 1 2 3 4 5 6 Työtuntien määrä
-225 – 7,5 = 217,5t
-Arkipyhäviikko (217 tuntia 30 minuuttia)
-```
-```
-Lyhennys toteutetaan vähentämällä minkä tahansa viikon työpäivien mää-
-rää 1:llä ja jakson työtuntien määrää 7,5 tunnilla (7 tunnilla 30 minuutilla).
-Jakson normaali työpäivien määrä on 6 x 5 = 30 työpäivää. Jakson nor-
-maali tuntimäärä on 6 x 37,5 tuntia = 225 tuntia. Lyhennys toteutuu teet-
-tämällä jaksossa 29 työpäivää ja 217,5 tuntia (217 tuntia 30 minuuttia).
 ```
 5. Työaikaa lyhentävät:
     - pitkäperjantai
@@ -4314,17 +4042,7 @@ Työaikaa lyhentävät myös maanantaista perjantaihin sijoittuvat:
     ennen arkipyhää on kestänyt vähintään kuukauden. Työsuhteen kestoa kos-
     keva ehto ei koske itsenäisyyspäivästä johtuvaa työajan lyhennystä.
 
-```
-Esimerkki 47
-```
-```
-Työsuhde on alkanut 24.11. Työsuhde on kestänyt jouluaattoon mennessä
-1 kuukauden, joten työntekijä saa maanantaista perjantaille sijoittuvalta
-jouluaatolta arkipyhälyhennyksen.
-```
-```
-Lisäksi työntekijä saa maanantaista perjantaihin sijoittuvalta itsenäisyys-
-päivältä työajan lyhennyksen.
+
 ```
 7. Alle 37,5 tuntia tekevälle annetaan arkipyhäviikon työajan lyhennys:
     - rahakorvauksena tehtyjen työtuntien lisäksi lyhennysjakson tilissä tai
@@ -4335,21 +4053,6 @@ Rahakorvaus tai työajan lyhennys lasketaan jakamalla työsopimuksessa
 sovittu viikkotyöaika 5:llä.
 ```
 ```
-Esimerkki 48
-```
-```
-Työntekijän sovittu keskimääräinen viikkotyöaika on 20 tuntia.
-```
-```
-Arkipyhäviikon (esim. juhannusviikon) työajan lyhennys (4 tuntia) voidaan
-antaa kahdella tavalla:
-```
-**_- rahana_**
-    Työntekijä tekee kyseisellä viikolla sovitun 20 tuntia ja saa palkan
-    24 tunnilta.
-tai
-**_- työajan lyhennyksenä_**
-    Työntekijä tekee kyseisellä viikolla 16 tuntia ja saa palkan 20 tunnilta.
 
 
 ### Työaikapöytäkirjat
@@ -4379,67 +4082,13 @@ lyhentäessä työaikaa.
     nysten lukumäärä x 7,5 tuntia.
 
 ```
-Esimerkki 49
-```
-```
-37,5 tuntia tekevä työntekijä, yritys käyttää tasoittumisjärjestelmää
-```
-```
-Työpaikalla on käytössä 12 viikon tasoittumisjärjestelmä, jolloin jakson viik-
-kojen enimmäistyöaika on (12 x 37,5) 450 tuntia. Jaksoon sisältyy 1 arkipyhä.
-```
-```
-Työntekijä on tehnyt jakson aikana 500 tuntia, joista 10 tuntia vuorokau-
-dessa ylittäviä tunteja on 15. Tehdyistä tunneista vähennetään erikseen
-50 %:lla korvattavat 10 tuntia ylittävät tunnit (500 – 15), jolloin tunteja jää
-```
-485. Tästä tuntimäärästä vähennetään kyseisen jakson viikkojen enimmäis-
-työaika 12 x 37,5 – 7,5 = 442,5 tuntia (442 tuntia 30 minuuttia), jolloin
-50 %:lla korvataan 42,5 tuntia (42 tuntia 30 minuuttia).
-
-```
-Työntekijälle maksetaan normaalin palkan lisäksi 50 %:lla korotettu palkka
-yhteensä (15 + 42,5) 57,5 tunnilta (57 tunnilta 30 minuutilta).
-```
-```
-Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia vii-
-kossa ylittävä työ eli 20 tuntia (500 tuntia – 12 x 40 tuntia).
-```
 
 ### Työaikapöytäkirjat
 
 ### C
 
 ```
-Esimerkki 50
-```
-```
-Alle 37,5 tuntia tekevä tuntipalkkainen, yritys käyttää tasoittumisjärjestelmää
-```
-```
-Alle 37,5 tuntia tekevän sovittu viikkotyöaika on 30 tuntia. Työpaikalla on käy-
-tössä 12 viikon tasoittumisjärjestelmä. Jakson suunniteltu tuntimäärä on (12
-x 30) 360 tuntia. Jaksoon sisältyy 1 arkipyhä, josta maksetaan rahakorvaus.
-```
-```
-Työntekijä on tehnyt jakson aikana 500 tuntia, joista 10 tuntia vuorokau-
-dessa ylittäviä tunteja on 15. Tehdyistä tunneista vähennetään erikseen
-50 %:lla korvattavat 10 tuntia ylittävät tunnit (500 – 15), jolloin tunteja jää
-```
-485. Tästä tuntimäärästä vähennetään jakson viikkojen enimmäistyöaika
-450 tuntia (12 x 37,5), jolloin 50 %:lla korvattavia tunteja jää 35.
 
-```
-Kyseiseltä tasoittumisjaksolta työntekijälle maksetaan yksinkertainen tun-
-tipalkka suunnitelluista 360 tunnista ja jakson viikkojen enimmäistyöajan ja
-suunnitellun työajan erotuksesta (450 – 360) 90 tunnista. Yksinkertainen
-tuntipalkka maksetaan yhteensä 450 tunnista (360 + 90). Työntekijä saa
-jaksolta 50 %:lla korotetun palkan 50 tunnilta (15 + 35). Lisäksi hänelle mak-
-setaan arkipyhäviikon lyhennyskorvauksena 6 tunnin palkka.
-```
-```
-Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia vii-
-kossa ylittävä työ eli 20 tuntia (500 tuntia – 12 x 40 tuntia).
 ```
 
 ### Työaikapöytäkirjat
@@ -4485,13 +4134,11 @@ kossa ylittävä työ eli 20 tuntia (500 tuntia – 12 x 40 tuntia).
 ```
 Kokoaikatyöntekijä ansaitsee Pekkaspäiviä kalenterivuotta kohti seuraavasti: 
 ```
-#### Työsuhteen kesto Pekkaspäivien lukumäärä
-
 ```
-2–4 kuukautta 3 päivää
-5–7 kuukautta 7 päivää
-8–10 kuukautta 11 päivää
-11–12 kuukautta 14 päivää
+Työsuhteen keston ollessa 2–4 kuukautta, on pekkaspäivien lukumäärä 3 päivää.
+Työsuhteen keston ollessa 5–7 kuukautta, on pekkaspäivien lukumäärä 7 päivää.
+Työsuhteen keston ollessa 8–10 kuukautta, on pekkaspäivien lukumäärä 11 päivää.
+Työsuhteen keston ollessa 11–12 kuukautta, on pekkaspäivien lukumäärä 14 päivää.
 ```
 ```
 Edellä oleviin kuukausiin lasketaan vähintään 14 työpäivää sisältävät kuukaudet.
@@ -4543,40 +4190,23 @@ Pekkaspäivät kerryttävät vuosilomaa.
     mukaan seuraavin poikkeuksin:
 
 ```
-Työntekijä ansaitsee vuosivapaita alla olevan taulukon mukaisesti:
+Työntekijä ansaitsee vuosivapaita seuraavasti:
 ```
 ```
-Kertyneiden
-tuntien määrä
-```
-```
-Vuosivapaiden
-määrä
-```
-```
-Vuosivapaatuntien
-määrä
-200 1 8
-400 2 16
-600 3 24
-800 4 32
-1 000 5 40
-1 150 6 48
-1 300 7 56
-1 430 8 64
-1 560 9 72
+Kun kertyneitä työtunteja on 200, kertyy tästä 1 vuosivapaa, joka on 8 vuosivapaatuntia.
+Kun kertyneitä työtunteja on 400, kertyy tästä 2 vuosivapaata, joka on 16 vuosivapaatuntia.
+Kun kertyneitä työtunteja on 600, kertyy tästä 3 vuosivapaata, joka on 24 vuosivapaatuntia.
+Kun kertyneitä työtunteja on 800, kertyy tästä 4 vuosivapaata, joka on 32 vuosivapaatuntia.
+Kun kertyneitä työtunteja on 1 000, kertyy tästä 5 vuosivapaata, joka on 40 vuosivapaatuntia.
+Kun kertyneitä työtunteja on 1 150, kertyy tästä 6 vuosivapaata, joka on 48 vuosivapaatuntia.
+Kun kertyneitä työtunteja on 1 300, kertyy tästä 7 vuosivapaata, joka on 56 vuosivapaatuntia.
+Kun kertyneitä työtunteja on 1 430, kertyy tästä 8 vuosivapaata, joka on 64 vuosivapaatuntia.
+Kun kertyneitä työtunteja on 1 560, kertyy tästä 9 vuosivapaata, joka on 72 vuosivapaatuntia.
 ```
 ```
 Vuosivapaa annetaan 8 tunnin pituisena työpäivänä 7,5 tunnin sijasta.
 ```
 ```
-Esimerkki 51
-40 tuntia tekevä, yritys ei käytä työajan tasoittumisjärjestelmää
-Työntekijälle annetaan 1 vuosivapaa 8 tunnin pituisena työpäivänä. 
-Viikon muina 4 työpäivänä hän on töissä yhteensä 32 tuntia.
-```
-```
-Vuosivapaita kerryttäviksi tunneiksi kirjataan 32 tuntia.
 ```
 
 ### Työaikapöytäkirjat
@@ -4604,14 +4234,7 @@ Vuosivapaita kerryttäviksi tunneiksi kirjataan 464 tuntia.
     män työpäivien määrää 1:llä ja työtuntien määrää 8:lla tunnilla.
 
 ```
-Esimerkki 53
-```
-```
-Yritys ei käytä työajan tasoittumisjärjestelmää
-Myyjän keskimääräinen viikkotyöaika on 40 tuntia. Arkipyhäviikko on
-viikolla 14. Työajan lyhennys voidaan toteuttaa viikoilla 12–16 lyhentämällä
-valitun viikon työpäivien määrää 1:llä ja viikkotyöaikaa 8 tunnilla. Lyhennys-
-viikolla työpäiviä on 4 ja viikkotyöaika on 32 tuntia.
+
 ```
 
 ### Työaikapöytäkirjat
@@ -4619,29 +4242,7 @@ viikolla työpäiviä on 4 ja viikkotyöaika on 32 tuntia.
 ### C
 
 ```
-Esimerkki 54
-```
-```
-Yritys käyttää työajan tasoittumisjärjestelmää
-```
-```
-Myyjän keskimääräinen viikkotyöaika on 40 tuntia. Arkipyhäviikko on
-6 viikon tasoittumisjärjestelmän 3. viikolla. 
-```
-```
-6 viikon tasoittumisjärjestelmä:
-```
-```
-Viikko 1 2 3 4 5 6 Työtuntien määrä
-240 – 8 = 232 tuntia
-Arkipyhäviikko
-```
-```
-Lyhennys toteutetaan vähentämällä minkä tahansa viikon työpäivien mää-
-rää 1:llä ja jakson työtuntien määrää 8 tunnilla. Jakson normaali työpäivien
-määrä on 6 x 5 = 30 työpäivää. Jakson normaali tuntimäärä on 6 x 40 tun-
-tia = 240 tuntia. Lyhennys toteutuu teettämällä jaksossa 29 työpäivää
-ja 232 tuntia.
+
 ```
 #### Lisä- ja ylityö sekä korotettu palkka
 
@@ -4670,37 +4271,13 @@ lyhentäessä työaikaa ja 24 tuntia 2 arkipyhän lyhentäessä työaikaa. 
 ### C
 
 ```
-Esimerkki 55
-```
-```
-40 tuntia tekevä, yritys käyttää tasoittumisjärjestelmää
-```
-```
-Työpaikalla on käytössä 12 viikon tasoittumisjärjestelmä, jolloin jakson viik-
-kojen enimmäistyöaika on (12 x 40) 480 tuntia. Jaksoon sisältyy 1 arkipyhä.
-```
-```
-Työntekijä on tehnyt jakson aikana 500 tuntia, joista 10 tuntia vuorokau-
-dessa ylittäviä tunteja on 10. Tehdyistä tunneista vähennetään erikseen
-50 %:lla korvattavat 10 tuntia ylittävät tunnit (500 – 10), jolloin tunteja jää
-```
-490. Tästä tuntimäärästä vähennetään kyseisen jakson viikkojen enimmäis-
-työaika 12 x 40 – 8 = 472 tuntia, jolloin 50 %:lla korvataan 18 tuntia.
-
-```
-Työntekijälle maksetaan normaalin palkan lisäksi 50 %:lla korotettu palkka
-yhteensä (10 + 18) 28 tunnilta.
-```
-```
-Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia
-viikossa ylittävä työ eli 20 tuntia (500 tuntia – 12 x 40).
 ```
 
 ### Työaikapöytäkirjat
 
 ### C
 
-##  JOUSTAVA KOKOAIK ATYÖ
+##  JOUSTAVA KOKOAIKATYÖ
 
 #### Joustavan kokoaikatyön tarkoitus
 
@@ -4752,9 +4329,8 @@ syy, jota ei ole voitu ottaa huomioon sopimusta tehdessä.
 Sopimuksen päättymisen jälkeen työntekijä palaa työsopimuksensa mukai-
 seen tuntimäärään.
 ```
-#### sovittavat asiat Joustavaa kokoaikatyötä koskevassa paikallisessa sopimuksessa
+#### Joustavaa kokoaikatyötä koskevassa paikallisessa sopimuksessa sovittavat asiat
 
-#### sovittavat asiat
 
 6. Työnantaja ja työntekijä sopivat seuraavista asioista:
     1. työvuorolistaan etukäteen suunniteltavien työtuntien määrä. Etukäteen
@@ -4958,18 +4534,6 @@ Sopimuksessa voidaan myös sopia kaiken lisätyön tarjoamis- ja vastaanotto-
 velvollisuuden poistamisesta yhdessä.
 ```
 ```
-Esimerkki 56
-```
-```
-Kokoaikaisen työn tarjoamista koskeva sitoumus koskee Kauppa Oy:n
-Hämeentien myymälässä pääsääntöisesti työskenteleviä myyjän tehtävässä
-toimivia työntekijöitä.
-```
-```
-Työtä on otettava vastaan Kauppa Oy:n Tampereella sijaitsevista
-myymälöistä.
-```
-```
 Kokoaikaisen työn pyytämisessä noudatetaan seuraavaa menettelyä:
 ```
 1. Työntekijä esittää kirjallisen pyynnön kokoaikatyöstä.
@@ -4993,27 +4557,6 @@ vuoksi.
 ### C
 
 ```
-Esimerkki 57
-Työntekijä on 10 viikon tasoittumisjakson piirissä. Hän esittää pyynnön
-kokoaikaistamisesta jakson neljännen viikon keskiviikkona. Työnantajan tulee
-siten hyväksyä kokoaikatyön tarjoaminen viimeistään jakson kuudennen vii-
-kon keskiviikkona (ellei toisin sovita tai tilanteeseen sovellu jokin ohjeessa mai-
-nittu poikkeus). Mikäli työvuorolistan julkaisussa noudatetaan kahden viikon
-aikaa, työsuhde muuttuu kokoaikaiseksi tasoittumisjakson yhdeksännen viikon
-alusta. Velvollisuutta tuntien nostamiseen jakson aikana ei kuitenkaan ole, mikäli
-työvuorolistan julkaisuhetkellä on tiedossa, että keskimääräinen työaika jakson
-kahdeksannen viikon lopussa ylittää keskimäärin 37,5 tuntia viikossa. Tällöin
-työsuhde muuttuu kokoaikaiseksi seuraavan tasoittumisjakson alusta lukien.
-```
-```
-Esimerkki 58
-Työntekijä on 10 viikon tasoittumisjakson piirissä. Työntekijän toteutunut
-työaika jakson viikoilla 1-6 on 216 tuntia. Viikkojen 7-8 työaika on 6 viikon
-lopussa olevien tietojen perusteella 72 tuntia. Kokoaikaisen työntekijän koko-
-naistyöaika kahdeksalle viikolle (ilman arkipyhälyhennyksiä) olisi 8 * 37,5
-= 300 tuntia. Ensimmäisen kahdeksan viikon työaika on 216 + 72 = 288
-tuntia ja alittaa siten 8 viikon jakson kokonaistyöajan 300 tuntia. Näin ollen
-sopimustunnit on nostettava kokoaikaisiksi jakson yhdeksännen viikon alusta.
 ```
 ```
 Mikäli työntekijä on poissa korotettujen sopimustuntien tullessa voimaan,
@@ -5132,7 +4675,7 @@ Työaikapankkivapaat kerryttävät vuosilomaa.
 
 ## VÄKIVALLAN UHKA
 
-### 1 §  Arviointi........................................................................................................
+### 1 §  Arviointi
 
 1. Työnantajan työturvallisuuslain mukainen vaaran arviointi tulee palvelutyöteh-
     tävissä sisältää myös työpaikkaan kohdistuvan väkivallan uhan arvioinnin, joka
@@ -5194,7 +4737,7 @@ käytännössä pitää.
 
 ### Sopimukset
 
-## LUOTTAMUSMIESSOPIMUS....................................................................
+## LUOTTAMUSMIESSOPIMUS
 
 ### Johdanto
 
@@ -5535,23 +5078,15 @@ paikkojen lukumäärä, toimipaikan sijainti ja yrityksen toiminnan luonne.
 Yrityksen luottamusmiehelle annetaan työstävapautusaikaa hänen toimialu-
 eeseen kuuluvien työntekijöiden lukumäärän perusteella (riippumatta järjes-
 täytyneisyydestä) seuraavasti:
-```
-#### Työntekijöiden
-
-#### lukumäärä
-
-#### Työstävapautusaika
-
-#### tuntia / viikko
 
 ```
-20–49 3
-50–99 5
-100–149 7, 5
-150 –299 15
-300–499 22,5
-500–699 30
-vähintään 700 kokonaan työstä vapaa
+Kun työntekijöiden lukumäärä on 20–49, on työstävapautusaika 3 tuntia viikossa.
+Kun työntekijöiden lukumäärä on 50–99, on työstävapautusaika 5 tuntia viikossa.
+Kun työntekijöiden lukumäärä on 100–149 on työstävapautusaika 7,5 tuntia viikossa.
+Kun työntekijöiden lukumäärä on 150–299, on työstävapautusaika 15 tuntia viikossa.
+Kun työntekijöiden lukumäärä on 300–499, on työstävapautusaika 22,5 tuntia viikossa.
+Kun työntekijöiden lukumäärä on 500–699 on työstävapautusaika 30 tuntia viikossa.
+Kun työntekijöiden lukumäärä on vähintään 700, on kokonaan työstä vapaa.
 ```
 ```
 Muiden kuin työntekijämäärän perusteella kokonaan työstä vapautettujen
@@ -5570,19 +5105,6 @@ tamusmieskauden ajaksi.
 
 ### Sopimukset
 
-```
-Esimerkki 59
-```
-```
-Työntekijän työsopimustunnit ovat 25 t / viikko. Työntekijöiden lukumäärä
-on 550. Sopimustunnit nostetaan luottamusmieskauden ajaksi 30 t/ viikko.
-```
-```
-Esimerkki 60
-```
-```
-Työntekijän työsopimustunnit ovat 30 t / viikko. Työntekijöiden lukumäärä on
-yli 700. Sopimustunnit nostetaan luottamusmieskauden ajaksi 37,5 t / viikko.
 ```
 ```
 Luottamusmiestehtävän hoitamista varten sovittuja viikkoaikoja voidaan myös
@@ -5679,12 +5201,12 @@ järjestäytyneisyydestä) seuraavasti:
 #### Työntekijöiden määrä Korvaus euroa / kk
 
 ```
-20–49 47
-50–149 83
-150 –299 117
-300–499 177
-50 0 –79 9 225
-vähintään 800 sovitaan paikallisesti
+Työntekijöiden määrän ollessa 20–49, on korvaus 47 euroa kuukaudessa.
+Työntekijöiden määrän ollessa 50–149, on korvaus 83 euroa kuukaudessa.
+Työntekijöiden määrän ollessa 150–299, on korvaus 117 euroa kuukaudessa.
+Työntekijöiden määrän ollessa 300–499, on korvaus 177 euroa kuukaudessa.
+Työntekijöiden määrän ollessa 500–799, on korvaus 225 euroa kuukaudessa.
+Työntekijöiden määrän ollessa vähintään 800, korvauksesta sovitaan paikallisesti.
 ```
 ```
 Ellei paikallisesti toisin sovita, todetaan työntekijämäärä puolivuosittain.
@@ -6037,7 +5559,7 @@ käsiteltäväksi.
 
 ### Sopimukset
 
-#### 2.8 Työsuojeluasiamies...............................................................................................
+#### 2.8 Työsuojeluasiamies
 
 1. Jos paikallisesti on sovittu työsuojeluasiamiesten valitsemisesta, noudatetaan
     seuraavaa:
@@ -6150,12 +5672,10 @@ korvauksesta.
 
 1. Työsuojelutoimikunnan jäsenten lukumäärä on:
 
-#### Työntekijöitä Jäseniä
-
 ```
-enintään 150 4
-151–500 8
-yli 500 12
+Kun työntekijöitä on enintään 150, on työsuojelutoimikunnan jäsenten lukumäärä 4.
+Kun työntekijöitä on 151–500, on työsuojelutoimikunnan jäsenten lukumäärä 8.
+Kun työntekijöitä on yli 500, on työsuojeluotimikunnan jäsenten lukumäärä 12.
 ```
 2. Toimikunnan jäsenistä 25 % edustaa työnantajaa ja 75 % työntekijöitä.
 3. Työsuojelutoimikunnalle tai sitä korvaavalle yhteistoimintaelimelle kuuluvat
