@@ -5738,7 +5738,7 @@ Väkivallan uhka -pöytäkirjan 3 §:n määräykset.
 
 ### Sopimukset
 
-#### 2.12 Työsuojelu ja häirintä.........................................................................................
+#### 2.12 Työsuojelu ja häirintä
 
 ```
 Työnantajan laatiessa työturvallisuuslain mukainen työsuojelun toimintaohjelma
@@ -5758,23 +5758,16 @@ ohjeet asiakkaiden taholta tapahtuvan häirinnän käsittelyyn.
 2. Työsuojeluvaltuutetulle annetaan työstävapautusaikaa työpaikan työntekijöi-
     den lukumäärän perusteella (riippumatta järjestäytyneisyydestä) seuraavasti:
 
-#### Työntekijöiden
-
-#### lukumäärä
-
-#### Työstävapautusaika
-
-#### tuntia / viikko
 
 ```
-10–19 2
-20–49 3
-50–99 5
-100-149 7, 5
-150 –299 15
-300–499 22,5
-500–699 30
-Vähintään 700 Kokonaan työstä vapaa
+Kun työntekijöiden lukumäärä on 10–19, on työstävapautusaika 2 tuntia viikossa.
+Kun työntekijöiden lukumäärä on 20–49, on työstävapautusaika 3 tuntia viikossa.
+Kun työntekijöiden lukumäärä on 50–99, on työstävapautusaika 5 tuntia viikossa.
+Kun työntekijöiden lukumäärä on 100-149, on työstävapautusaika 7,5 tuntia viikossa.
+Kun työntekijöiden lukumäärä on 150–299, on työstävapautusaika 15 tuntia viikossa.
+Kun työntekijöiden lukumäärä on 300–499, on työstävapautusaika 22,5 tuntia viikossa.
+Kun työntekijöiden lukumäärä on 500–699, on työstävapautusaika 30 tuntia viikossa.
+Kun työntekijöiden lukumäärä on vähintään 700, on työsuojeluvaltuutettu kokonaan työstä vapaa.
 ```
 ```
 Muiden kuin työntekijämäärän perusteella kokonaan työstä vapautettujen työ-
@@ -5794,12 +5787,6 @@ taan henkilöstömäärää vastaavaan taulukon mukaiseen vapautusaikaan työ-
 suojeluvaltuutetun toimikauden ajaksi.
 ```
 ```
-Esimerkki 61
-```
-```
-Työntekijän työsopimustunnit ovat 25 tuntia viikossa. Työntekijöiden luku-
-määrä on 550. Sopimustunnit nostetaan työsuojeluvaltuutetun toimikauden
-ajaksi 30 tuntiin viikossa.
 ```
 ```
 Ellei paikallisesti toisin sovita, todetaan työntekijämäärä puolivuosittain.
@@ -5849,12 +5836,12 @@ toisin sovita.
 #### Työntekijöiden lukumäärä Korvaus euroa / kk
 
 ```
-20–49 47
-50–149 83
-150 –299 117
-300–499 177
-500–699 225
-vähintään 700 sovitaan paikallisesti
+Kun työntekijöiden lukumäärä on 20–49, on korvaus 47 euroa kuukaudessa.
+Kun työntekijöiden lukumäärä on 50–149, on korvaus 83 euroa kuukaudessa.
+Kun työntekijöiden lukumäärä on 150 –299, on korvaus 117 euroa kuukaudessa.
+Kun työntekijöiden lukumäärä on 300–499, on korvaus 177 euroa kuukaudessa.
+Kun työntekijöiden lukumäärä on 500–699, on korvaus 225 euroa kuukaudessa.
+Kun työntekijöiden lukumäärä on vähintään 700, sovitaan korvauksen määrästä paikallisesti.
 ```
 ```
 Jos yritykseen on valittu useita työsuojeluvaltuutettuja, korvaus maksetaan vain
@@ -5870,17 +5857,6 @@ Yrityksen toimipaikan työsuojeluvaltuutetun toimialueeseen kuuluvien työn-
 tekijöiden lukumäärää ei oteta huomioon laskettaessa päätyösuojeluvaltuu-
 tetun korvausta.
 ```
-```
-Esimerkki 62
-Yrityksessä on 3. kohdan mukaisia työntekijöitä 350. Yritykseen on
-valittu 1 työsuojeluvaltuutettu. Hänelle maksetaan korvausta 177 euroa
-kuukaudessa.
-Yrityksessä on 3. kohdan mukaisia työntekijöitä 350. Yritykseen on valittu
-2 työsuojeluvaltuutettua, joista toinen on päätyösuojeluvaltuutettu.
-Yrityksen toimipaikan työsuojeluvaltuutettu työskentelee 130 työnteki-
-jän toimipaikassa. Hänelle maksetaan korvausta 83 euroa kuukaudessa.
-Päätyösuojeluvaltuutetulle maksetaan korvausta (350 – 130 = 220) 117
-euroa kuukaudessa.
 ```
 ```
 Ellei paikallisesti toisin sovita, todetaan työntekijämäärä puolivuosittain.
@@ -6112,73 +6088,6 @@ Osapuolet ovat paikallisesti neuvotelleet erimielisyydestä. Erimielisyyden ratk
 Sen vuoksi asia on päätetty siirtää liittojen välillä neuvoteltavaksi.
 ```
 
-### Lomakkeet
-
-### E
-
-Yhteisesti todettu tapahtumien kulku. Siihen liittyvät dokumentit ovat muistion liitteinä.
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-
-Työntekijän vaatimus (tarvittaessa voidaan käyttää erillistä liitettä).
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-
-Työntekijän perustelut vaatimukselle (työehtosopimuksen / lain kohdat).
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-
-Työnantajan vastaus ja perustelut (työehtosopimuksen / lain kohdat). Tarvittaessa voidaan käyttää erillistä liitettä).
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-
-Paikka Aika
-
-........................................................................................................................... ...........................................................................................................................
-Työnantajan / työnantajan edustajan allekirjoitus ja nimen selvennys Työntekijän / työntekijän edustajan allekirjoitus ja nimen selvennys
-
-........................................................................................................................... ...........................................................................................................................
-Nimen selvennys Nimen selvennys
-
-........................................................................................................................... ...........................................................................................................................
-
-Tätä muistiota on tehty kaksi samansisältöistä kappaletta. Työnantaja toimittaa toisen Kaupan liittoon ja työntekijä toisen Palvelualojen ammattiliittoon.
-
-Liitteet ________ kpl
-
-Luettelo liitteistä
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-......................................................................................................................................................................................................................................................................
-
 
 ### Lomakkeet
 
@@ -6271,66 +6180,7 @@ liitteineen omalle liitolle.
 
 ### E
 
-```
-KAUPAN ALAN TYÖSOPIMUS
-```
-```
-1.TYÖSUHTEEN Työnantaja Liike- tai kotipaikka
-OSAPUOLET
-Työntekijä Henkilötunnus
-```
-```
-Yllä mainittu työntekijä sitoutuu korvausta vastaan tekemään yllä mainitun työnantajan hänelle osoittamaa työtä tämän johdon ja
-valvonnan alaisena sekä seuraavin ehdoin:
-```
-2. TYÖSOPIMUKSEN
-    VOIMASSAOLO
 
-```
-Työsuhteen alussa on kuukauden koeaika.
-Koeaika kaksitoista kuukautta lyhyemmässä työsuhteessa on enintään puolet työsopimuksen kestoajasta,
-jolloin koeajan viimeinen päivä on.
-toistaiseksi voimassa oleva työsuhde määräaikainen työsuhde
-Työsuhde kestää toistaiseksi ja sen alkamis- Määräaikaisen työsuhteen alkamispäivämäärä on
-päivämäärä on ja kesto saakka.
-Määräaikaisen työsuhteen peruste:
-tai kunnes seuraava yksilöity työtehtävä on suoritettu
-ja sen arvioitu kesto on saakka.
-```
-3. TYÖAIKA Työaika on keskimäärin 37,5 tuntia viikossa.
-    alle 37,5 tuntia viikossa, jolloin keskimääräinen viikkotyöaika on tuntia.
-Työntekijä suostuu tekemään lisätyötä laissa säädetyin edellytyksin, jolloin siitä maksetaan
-työehtosopimuksen mukainen korvaus.
-Työntekijä suostuu tekemään tarvittaessa sunnuntaityötä
-ei suostu tekemään sunnuntaityötä
-Sunnuntaityöstä maksetaan työehtosopimuksen mukainen korvaus.
-4.TYÖTEHTÄVÄT Työntekijän työtehtävät (esim. myyjä, logistiikkatyöntekijä, toimihenkilö):
-5.PALKKAUS Työsuhteen alussa työntekijän palkka määräytyy seuraavasti:
-    Palkkaryhmä ja alallaolovuodet:
-    Palkan määrä kuukaudessa tai tunnissa:
-6. VUOSILOMA Vuosiloma määräytyy vuosilomalain ja noudatettavan työehtosopimuksen mukaan.
-7. IRTISANOMISAIKA Irtisanomisaika määräytyy noudatettavan työehtosopimuksen mukaan.
-8.TYÖEHTOSOPIMUS Työsuhteessa noudatetaan työnantajaa sitovaa työehtosopimusta, voimassa olevia lakeja ja asetuksia sekä yrityksen sisäisiä ohjeita ja
-    sääntöjä. Sairausajan palkkaa, vuosilomaa ja työaikaa koskevien määräysten osalta noudatetaan työehtosopimuksen voimassaoloajan
-    päätyttyä ja ennen uuden työehtosopimuksen voimaanastumista päättyneen sopimuksen määräyksiä.
-9. MUUT EHDOT
-10. PÄIVÄYS JA Tätä sopimusta on tehty kaksi yhtäpitävää kappaletta, joista yksi annetaan työntekijälle ja yksi jää työnantajalle.
-    ALLEKIRJOITUS Paikka Aika
-       Työnantajan allekirjoitus Työntekijän allekirjoitus
-       Nimen selvennys Nimen selvennys
-
-```
-SELVITYS:
-Työsopimuslain 2:4 §:n mukaisesti työnantaja ilmoittaa lisäksi työsuhteen keskeisistä ehdoista seuraavaa:
-Työn suorittamispaikka: (esimerkiksi yrityksen tietty toimipaikka/-paikat tai yrityksen kaikki toimipaikat tai tietty työnsuorittamisalue/-alueet)
-___________________________________________________________________________________________________________________________________
-Palkanmaksukausi on
-___________________________________________________________________________________________________________________________________
-Työsuhteen alussa työnantajaa sitova työehtosopimus on
-___________________________________________________________________________________________________________________________________
-Muuta:
-___________________________________________________________________________________________________________________________________
-```
 
 ### Lomakkeet
 
@@ -6471,28 +6321,12 @@ joilla työnantaja voi yksipuolisesti muuttaa työsopimuksen ehtoja..
 
 Kaupan työehtosopimuksen vuosiportaat ovat seuraavat:
 
-8. vuoden
-työntekijän
-palkka
-5. vuoden
-työntekijän
-palkka
-3. vuoden
-työntekijän
-palkka
-1. vuoden
-työntekijän
-palkka
+Harjoittelijan palkkaa maksetaan ensimmäisenä palvelusvuonna.
+Ensimmäisen vuoden työntekijän palkkaa maksetaan, kun palvelusvuosia on takana 2-3.
+Kolmannen vuoden työntekijän palkkaa maksetaan, kun palvelusvuosia on takana 4-5.
+Viidennen vuoden työntekijän palkkaa maksetaan, kun palvelusvuosia on takana 6-8.
+Kahdeksannen vuoden työntekijän palkkaa maksetaan, kun palvelusvuosia on takana 9 tai enemmän.
 
-Harjoit-
-telijan
-palkka
-
-1. 2. 3. 4. 5. 6. 7. 8. 9. >>>
-
-```
-Palvelusvuodet (tes 11 § 2. kohta)
-```
 
 ### F
 
